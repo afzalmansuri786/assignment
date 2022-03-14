@@ -2,7 +2,7 @@
   "name": "assignment",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://afzalmansuri786.github.io/prod",
+  "homepage": "https://afzalmansuri786.github.io/assignment",
   "dependencies": {
     "@emotion/react": "^11.8.1",
     "@emotion/styled": "^11.8.1",
@@ -27,7 +27,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy" : "npm run deploy",
+    "predeploy": "npm run deploy",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
